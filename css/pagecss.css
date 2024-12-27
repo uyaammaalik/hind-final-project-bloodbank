@@ -1,0 +1,17 @@
+html{
+	background-color:#CD0000;
+}
+
+body{
+	width:1020px;
+	margin:auto;
+}
+
+.page{
+	background-color:white;
+	width:1020px;
+	height:auto;
+	border-radius:6px;
+}
+
+

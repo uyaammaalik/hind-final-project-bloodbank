@@ -1,0 +1,62 @@
+
+.tab{
+
+	background-color:white;
+	width:1020px;
+	padding-top:20px;
+	font-size:12px;
+	margin:auto;
+	border-radius:5px;
+}
+.bottom{
+		margin-top:10px;
+	background-color:white;
+	width:1020px;
+	padding-top:20px;
+	font-size:12px;
+	margin-left:auto;
+	margin-right:auto;
+	border-radius:5px;
+
+}
+
+.button{
+	height:40px;
+	font-family:monotypecosiva;
+	color:black;
+	padding-bottom:3px;
+	padding-top:3px;
+	border-radius:3px;
+	
+}
+.button:hover{
+	background-color:#CD0000;
+	color:white;
+	
+}
+a{
+	text-decoration:none;
+}
+
+.tabright{
+	background-color:white;
+	width:200px;
+	padding-top:20px;
+	padding-bottom:20px;
+	font-size:12px;
+	margin:auto;
+	border-radius:5px;
+	height:auto;
+}
+.tabr{
+	background-color:white;
+	width:200px;
+	padding-top:20px;
+	padding-bottom:20px;
+	font-size:12px;
+	border-radius:5px;
+	height:auto;
+	margin-top:10px;
+	border-radius:5px;
+}
+
